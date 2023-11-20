@@ -32,3 +32,4 @@ if place:
 
     except KeyError:
         st.write("That country does not exist!")
+
